@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.what {
+    text-align: center;
+    font-size: larger;
+}
+.G {
+    text-align: center;
+    color: #500711;
+}
+.W {
+    text-align: center;
+    color: #500711;
+}
+.Use{
+    text-align: center;
+    font-size: larger;
+}
+.div{
+    flex: 65%;
+    padding: 15px;
+}
+.ch{
+    text-align: center;
+    color: #500711;
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  .power {
+    color: rgb(167, 0, 0);
+    font-size: 22px;
+  }
+  .card2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+    
+  }
+  .card3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 5px solid rgb(167, 0, 0);
+  }
+  .ateam{
+    text-align: center;
+  }
+ .sectionch {
+    margin: 5px;
+    padding: 3px;
+ }
+ .sectionbtc {
+    margin: 5px;
+    padding: 3px;
+ }
+ .wrap{
+  display: flex;
+  justify-content: center;
+  column-gap: 10px;
+ }
+ .card4 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+}
+.ateam{
+  border: #500711;
+  border: 1px;
+  margin-left: 5cm;
+  margin-right: 5cm;
+ padding-top: 30px;
+}
+.pson{
+ color: #ffffff;
+ text-align: center;
+}
+.ul2{
+  text-align: center;
+}
